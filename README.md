@@ -6,4 +6,4 @@ Although the other thread will take some resources for computation, the worker t
 
 The async request processing model is very useful as it helps scale an application well during high loads, especially for IO intensive operations.
 
-# xb-demo
+# deferred-result-demo
